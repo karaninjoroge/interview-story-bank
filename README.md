@@ -1,59 +1,56 @@
-# Interview Story Bank — Dennis Karani Njoroge
+# Interview Story Bank
 
-> STAR+L structured stories for PM behavioural interviews. Built and sharpened continuously.
+**Author:** Karani Njoroge
+**Purpose:** STAR-structured stories organized by competency for PM interviews.
 
 ---
 
-## The Purpose
+## How to Use This Bank
 
-Behavioural interviews are won or lost on specificity. This repository is where I write, refine, and score every story I might tell in an interview — so when the moment comes, I'm not improvising. I'm selecting from a tested library.
+Every PM interview question is really asking: "Give me evidence that you have this competency."
 
-**The rule:** Every story must have a specific, defensible result. "The project went well" is not a result. "Patient wait time in the pilot reduced from 4 hours to 87 minutes over 6 weeks" is a result.
+This bank converts real experiences into structured, rehearsable stories. Each story is mapped to a competency, formatted in STAR, and annotated with delivery guidance.
+
+**The rule:** Never walk into an interview without three stories ready for each competency below.
 
 ---
 
 ## Story Index
 
-| File | Stories Inside | Confidence |
-|---|---|---|
-| [leadership.md](./leadership.md) | Taking initiative, driving outcomes without authority | 🔄 Building |
-| [conflict.md](./conflict.md) | Disagreements with teammates, navigating pushback | 🔄 Building |
-| [failure.md](./failure.md) | Projects that didn't go as planned, what I learned | 🔄 Building |
-| [ambiguity.md](./ambiguity.md) | Decisions made without complete information | 🔄 Building |
-| [data-driven.md](./data-driven.md) | Using data to support or change a decision | 🔄 Building |
-| [user-obsession.md](./user-obsession.md) | Going deeper than required to understand users | 🔄 Building |
-| [prioritisation.md](./prioritisation.md) | Saying no, making tradeoffs | 🔄 Building |
-| [collaboration.md](./collaboration.md) | Working across engineering, design, stakeholders | 🔄 Building |
+| Competency | Stories Available |
+|---|---|
+| [Leadership](leadership.md) | 2 |
+| [Conflict Resolution](conflict.md) | 1 |
+| [Failure & Learning](failure.md) | 2 |
+| [Ambiguity](ambiguity.md) | 1 |
+| [Innovation](innovation.md) | 1 |
+| [Teamwork](teamwork.md) | 1 |
+| [Customer Obsession](customer-obsession.md) | 2 |
+| [Execution Under Pressure](execution.md) | 1 |
 
 ---
 
-## STAR+L Template
+## STAR Framework Guide
 
-```
-SITUATION (1-2 sentences):
-[Context — where, when, what was happening, what the stakes were]
+**Situation:** Set the scene briefly. Context, stakes, who was involved.
+**Task:** Your specific responsibility. What were you expected to do?
+**Action:** What YOU did. Use "I" not "we." The action is where you demonstrate PM thinking — spend most of your time here.
+**Result:** What happened? Quantify where possible. What did you learn?
 
-TASK (1 sentence):
-[My specific responsibility in this situation]
-
-ACTION (3-5 sentences — the most important part):
-[What I specifically did. Use "I", not "we". Include reasoning, not just actions.]
-
-RESULT (1-2 sentences):
-[Measurable outcome. If no hard number, use directional result + timeframe.]
-
-LEARNING (1 sentence):
-[What I took away. Shows self-awareness — a critical PM trait.]
-```
+**Timing:** 90 seconds for a short version. 2.5 minutes for a full story.
+**Lead with results** when asked for the concise version.
 
 ---
 
-## Interview Confidence Scoring
+## Converting Your Experience to PM Stories
 
-After each practice session, score every story 1–5:
-- **1–2:** Story is weak, vague, or has no clear result
-- **3:** Story is decent but needs more specificity or stronger result
-- **4:** Story is strong and specific
-- **5:** Story is polished, specific, and would impress a FAANG PM interviewer
+Even without a formal PM role, you have PM-relevant experience. The conversion:
 
-**Goal:** Every story at 4+ before first interview season.
+| Your Experience | PM Competency |
+|---|---|
+| Group project where you organized the work | Leadership, execution |
+| Assignment where you had to figure out the approach yourself | Ambiguity, problem-solving |
+| Team conflict you navigated | Conflict resolution |
+| Project that failed and what you changed | Failure and learning |
+| Research you did before making a decision | Customer obsession, data-driven thinking |
+| New approach you proposed | Innovation |
